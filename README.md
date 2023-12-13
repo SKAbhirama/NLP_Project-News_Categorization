@@ -5,7 +5,7 @@ This repository contains code and resources for a news categorization project. T
 
 ## Project Structure
 - `data/`: Folder containing the dataset used for training and testing.
-- `notebooks/`: Jupyter notebooks used for data exploration, preprocessing, and model training.
+- `notebooks/`: Colab notebooks used for data exploration, preprocessing, and model training.
 - `models/`: Saved machine learning models.
-- `requirements.txt`: List of dependencies for the project.
+- `dependencies.md`: List of dependencies for the project.
 
