@@ -9,3 +9,20 @@ This repository contains code and resources for a news categorization project. T
 - `models/`: Saved machine learning models.
 - `dependencies.md`: List of dependencies for the project.
 
+## Usage
+- Follow the steps outlined in the notebooks to preprocess data and train the model.
+- Open the datasets foldeer to find the input data we used for this project.
+- Explore the models/ directory for pre-trained models that can be used for inference.
+
+## Acknowledgments
+We used an "inshorts-english-news-dataset" found on Kaggle, containing all the data we required for the model: the news headlines, news content and their respective categories.
+### Source: https://www.kaggle.com/datasets/shivamtaneja2304/inshorts-dataset-english/data
+
+## Made by Team HighFive
+- **Krishna Abhirama** - 'SE21UARI069'
+- **Ramki Jetti** - 'SE21UARI112'
+- **Jatin Mamidi** - 'SE21UARI057'
+- **Bhargav Naidu Mulakala** - 'SE21UARI085'
+- **Harshavardhan Reddy Appireddy** - 'SE21UARI017'
+
+Happy coding!
